@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 2.6.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: Leandro.Martins-dos-Santos@diamond.ac.uk
+author_name: Leandro Martins dos Santos
+description: A Python package for generating and managing real-time trajectories with
+    Ruckig and Scanspec.
+distribution_name: scanpath
+docker: true
+docs_type: README
+git_platform: github.com
+github_org: LeandroMartinsdS
+package_name: scanpath
+pypi: false
+repo_name: scanpath
+type_checker: pyright
